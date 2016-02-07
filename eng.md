@@ -100,7 +100,7 @@ By far the most important part of the shortlisting process is involving as many 
 
 The third step is to have customers weigh in on the shortlist. We usually send out a survey and ask each person to rank five tasks, giving 5 to the most important, 4 to the next-most important, and so on:
 
-![A screenshot of a long survey, showing instructions, a list of 67 tasks, and spaces to rank the tasks.](http://alistapart.com/d/418/survey.jpg)
+![A screenshot of a long survey, showing instructions, a list of 67 tasks, and spaces to rank the tasks.](img/survey.jpg)
 
 That’s a joke, right? Nobody would do that. It breaks all the rules of psychology and survey design. It’s simply not possible. Yet in the last 10 years, we have done over 400 similar surveys with close to 400,000 people voting. It’s crazy, but it works.
 
@@ -113,7 +113,7 @@ The voting survey needs to be designed this way because:
 
 Cisco is a complex world. The 67 tasks in the final task list were all seen as top tasks. They had been edited down from a list of more than 600\. And yet, when the votes were counted, here’s what happened:
 
-![A pie chart divided into 67 unequal pieces, showing that three tasks take up a quarter of the chart and the bottom 44 tasks take up another quarter.](http://alistapart.com/d/418/cisco-results.jpg)
+![A pie chart divided into 67 unequal pieces, showing that three tasks take up a quarter of the chart and the bottom 44 tasks take up another quarter.](img/cisco-results.jpg)
 
 Three tasks got the first 25 percent of the vote. Six tasks got from 25–50 percent of the vote, 14 tasks got from 50–75 percent of the vote, and 44 tasks got from 75–100 percent. Yes, three tasks got as much of the vote as the bottom 44\. In fact, the top task (“Download software”) got as much of the vote as the bottom 23 tasks.
 
@@ -121,13 +121,13 @@ We have done this process over 400 times and the same patterns emerge every sing
 
 This is Cisco’s league table of the top 20 tasks:
 
-![A table displaying the same data as the pie chart, but showing only the top 20 tasks and their percentage of the total vote.](http://alistapart.com/d/418/tasks-top.jpg)
+![A table displaying the same data as the pie chart, but showing only the top 20 tasks and their percentage of the total vote.](img/tasks-top.jpg)
 
 The top task (“Download software”) got 2,408 votes out of a total of 26,160 votes cast, representing 9.2 percent of the overall vote.
 
 Here are the tasks at the bottom of the vote:
 
-![A table displaying the same data as the pie chart, but showing only the bottom 20 tasks and their percentage of the total vote.](http://alistapart.com/d/418/tasks-bottom.jpg)
+![A table displaying the same data as the pie chart, but showing only the bottom 20 tasks and their percentage of the total vote.](img/tasks-bottom.jpg)
 
 The bottom task (“Financing, leasing options”) got 29 votes. This is not to say that financing and leasing are unimportant; it’s just that people don’t go to Cisco.com for them. Also, notice how “Blogs” got just 76 votes out of 26,160 cast. People don’t care about the format. They care about the task of installing the RV082 router, for example. If they find a blog post about how best to install the RV082, then, sure, they’ll read that.
 
